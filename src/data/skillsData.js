@@ -3,15 +3,10 @@
     'Javascript',
     'CSS',
     'React',
-    'Java',
-    'C++',
+    'Django',
+    'MongoDB',
     'MySQL',
-    'C',
-    'PHP',
-    'Bootstrap',
-    'SQL Server',
-    'GIT'
-
+    'Python'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
@@ -99,6 +94,4 @@
     Tensorflow
     Webex
     Wordpress
-    .Net
-    Node Js
 */
