@@ -1,23 +1,34 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Ramjas College, Delhi University',
-        course: 'B.A. Honours History',
-        startYear: '2015',
-        endYear: '2018'
+        institution: 'UNIVERSIDAD NACIONAL DE COSTA RICA',
+        course: 'Diplomado en Programación de Aplicaciones Informáticas',
+        startYear: '2020',
+        endYear: '2024'
     },
     {
         id: 2,
-        institution: 'Delhi University',
-        course: 'M.A. History',
-        startYear: '2019',
-        endYear: '2021'
+        institution: 'UNIVERSIDAD NACIONAL DE COSTA RICA',
+        course: 'Bachillerato en Ingeniería en Sistemas de la Información',
+        startYear: '2020',
+        endYear: '2025'
     },
     {
         id: 3,
-        institution: 'Masai School of Coding',
-        course: 'Fullstack Web-Development',
-        startYear: '2021',
-        endYear: 'Present'
+        institution: 'CISCO',
+        course: 'CCNA: Introduction to Networks',
+        startYear: '2024'
+    },
+    {
+        id: 4,
+        institution: 'CISCO',
+        course: 'CCNA: Switching, Routing, and Wireless Essentials',
+        startYear: '2024'
+    },
+    {
+        id: 5,
+        institution: 'UiPath Community',
+        course: 'UiPath RPA Automation',
+        startYear: '2023'
     },
 ]

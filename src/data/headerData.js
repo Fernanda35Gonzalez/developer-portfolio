@@ -1,9 +1,10 @@
 import resume from '../assets/pdf/resume.pdf'
+import ferImage from '../assets/png/ferm.png'
 
 export const headerData = {
-    name: 'Sreerag Rajan',
-    title: "Web Developer",
-    desciption:"Life may be a meandering path but don't worry about it, rather enjoy it. It is about the journey, not the destination so explore all that comes your way, learn and grow from it, for this journey only happens once.",
-    image: 'https://avatars.githubusercontent.com/u/85482640?v=4',
+    name: 'Fernanda González Machado',
+    title: "FULL-STACK WEB DEVELOPER",
+    desciption:"Soy programadora y una entusiasta de la tecnología, siempre en busca de crear soluciones innovadoras que transformen ideas en código, con un enfoque constante en el aprendizaje y la mejora continua.",
+    image: ferImage,
     resumePdf: resume
 }
